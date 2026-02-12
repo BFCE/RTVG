@@ -28,6 +28,7 @@ RaceRender didn't work right for me, so I made my own.
 * Drag racing mode, including 60ft, 0-60, 1/8mi, 1/4mi, 1/2mi, 60-130
 * maybe a gui
 * fancier looking
+* I may add the ability to import datalog exports from Hondata for RPM, AFR, etc
 * you tell me
 
 
