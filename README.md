@@ -89,7 +89,7 @@ pip install -r requirements.txt
 Clone the repository:
 
 ```bash
-git clone https://github.com/BFCE/RTVG/rtvg.git
+git clone https://github.com/BFCE/RTVG.git
 cd rtvg
 ```
 
